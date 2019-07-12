@@ -2,6 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.alc4phase1">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,11 +16,15 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".MyProfileActivity"
-            android:label="@string/txt_my_profile"></activity>
+            android:label="@string/txt_my_profile"
+            android:screenOrientation="portrait"
+            android:fontFamily="@font/reenie_beanie"></activity>
         <activity
             android:name=".AboutALCActivity"
+            android:configChanges="orientation|screenSize"
             android:label="@string/txt_about_alc"/>
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
