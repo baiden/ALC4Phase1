@@ -18,7 +18,7 @@ TextViews showing your name, Track, Country, Email and Phone Number.
 **Android Tags:** *#constraintLayout* *#customButtom* *#animation* *#lottie* *#intent* *#webview* 
 
 # Personal Comment
-Had a challenge with the webview because it was returning some blank pages, however, I got it solved things to this help:
+Had a challenge with the webview because the url was returning some SSL error, however, I got it solved things to this help:
 https://stackoverflow.com/a/55120500/3884184
 
 **Link to the apk:** https://drive.google.com/open?id=1GyI--W2unu49yeFAfL-3Jklo4jtdcWB3
