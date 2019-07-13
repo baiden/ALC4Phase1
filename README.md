@@ -21,4 +21,4 @@ TextViews showing your name, Track, Country, Email and Phone Number.
 I enjoyed working on this project and had a challenge with the webview because the url was returning some SSL error, however, I got it solved things to this help:
 https://stackoverflow.com/a/55120500/3884184
 
-**Link to the apk:** https://drive.google.com/open?id=1ZhBJNGTcfcNRxiHZNo9BV1OpQmpsyHi9
+**Link to the apk:** https://drive.google.com/open?id=1I3imvbxTM4lYg0vd9PKgz0T7QwTPrIhY
