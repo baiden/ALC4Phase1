@@ -17,8 +17,7 @@ public class MyProfileActivity extends AppCompatActivity {
     }
 
     public void backToMainBtn(View view) {
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
+        onBackPressed();
     }
 
     public void messageButton(View view) {
