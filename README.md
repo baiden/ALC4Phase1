@@ -10,6 +10,8 @@ TextViews showing your name, Track, Country, Email and Phone Number.
 
 <a href="https://imgflip.com/gif/35jfrx"><img src="https://i.imgflip.com/35jfrx.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/35jhij"><img src="https://i.imgflip.com/35jhij.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/35jk86"><img src="https://i.imgflip.com/35jk86.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/35jkad"><img src="https://i.imgflip.com/35jkad.gif" title="made at imgflip.com"/></a>
 
 **Hint:** If you encounter an installation error, Click Build tab ---> Clean Project ---> Run it again :)
 
