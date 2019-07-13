@@ -1,9 +1,17 @@
 # ALC4Phase1
 
+### Project Description: 
+This challenge is a simple Android Application with three Activities, the first Activity is the main Activity with two Buttons.
+Button 1 takes you to Activity B when clicked.
+Button 2 takes you to Activity C when clicked.
+Activity B is the About ALC page, it contains only a Webview that loads the URL https://andela.com/alc/ which is the ALC about page.
+Activity C is your profile, it contains an ImageView which should display your photo,
+TextViews showing your name, Track, Country, Email and Phone Number.
+
 <a href="https://imgflip.com/gif/35jfrx"><img src="https://i.imgflip.com/35jfrx.gif" title="made at imgflip.com"/></a>
 
 **Hint:** If you encounter an installation error, Click Build tab ---> Clean Project ---> Run it again :)
 
 **Android Tags:** *#constraintLayout* *#customButtom* *#animation* *#lottie* *#intent* *#webview* 
 
-Link to the apk: https://drive.google.com/open?id=1GyI--W2unu49yeFAfL-3Jklo4jtdcWB3
+**Link to the apk:** https://drive.google.com/open?id=1GyI--W2unu49yeFAfL-3Jklo4jtdcWB3
