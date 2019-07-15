@@ -80,6 +80,7 @@ public class AboutALCActivity extends AppCompatActivity {
             @Override
             public void onPageFinished(WebView view, String url) {
                 mLoadingProcess.setVisibility(View.INVISIBLE);
+                Toast.makeText(AboutALCActivity.this, "Done loading :)", Toast.LENGTH_SHORT).show();
             }
         });
 
