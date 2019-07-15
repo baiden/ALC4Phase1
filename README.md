@@ -8,6 +8,8 @@ Activity B is the About ALC page, it contains only a Webview that loads the URL 
 Activity C is your profile, it contains an ImageView which should display your photo,
 TextViews showing your name, Track, Country, Email and Phone Number.
 
+Giving this project a star won't be bad :)
+
 <a href="https://imgflip.com/gif/35jfrx"><img src="https://i.imgflip.com/35jfrx.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/35jhij"><img src="https://i.imgflip.com/35jhij.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/35jk86"><img src="https://i.imgflip.com/35jk86.gif" title="made at imgflip.com"/></a>
@@ -18,7 +20,7 @@ TextViews showing your name, Track, Country, Email and Phone Number.
 **Android Tags:** *#constraintLayout* *#customButtom* *#animation* *#lottie* *#intent* *#webview* 
 
 # Personal Comment
-I enjoyed working on this project and had a challenge with the webview because the url was returning some SSL error, however, I got it solved things to this help:
+I enjoyed working on this project and had a challenge with the webview because the url was returning some SSL error, however, I got it solved thanks to this help:
 https://stackoverflow.com/a/55120500/3884184
 
 **Link to the apk:** https://drive.google.com/open?id=1I3imvbxTM4lYg0vd9PKgz0T7QwTPrIhY
