@@ -8,6 +8,8 @@ Activity B is the About ALC page, it contains only a Webview that loads the URL 
 Activity C is your profile, it contains an ImageView which should display your photo,
 TextViews showing your name, Track, Country, Email and Phone Number.
 
+Giving this project a start won't be bad :)
+
 <a href="https://imgflip.com/gif/35jfrx"><img src="https://i.imgflip.com/35jfrx.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/35jhij"><img src="https://i.imgflip.com/35jhij.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/35jk86"><img src="https://i.imgflip.com/35jk86.gif" title="made at imgflip.com"/></a>
